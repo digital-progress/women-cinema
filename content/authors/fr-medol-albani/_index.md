@@ -1,80 +1,29 @@
 ---
 # Display name
-title: Alice Missi
-
+title: Francesca Medolago Albani
 # Full Name (for SEO)
-first_name: Alice
-last_name: Missi
-
+first_name: Francesca
+last_name: Medolago Albani
 # Is this the primary user of the site?
 superuser: true
-
 # Role/position
-role:
-
+role: Dirigente ANICA
 # Organizations/Affiliations
 organizations:
-  - name: 
-    url: ''
-
+- name: ANICA (Associazione Nazionale Industrie Cinematografiche Audiovisive e Digitali)
+  url: ''
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
-
+bio: Dirigente con esperienza in ricerca, pianificazione strategica e sviluppo nell'industria audiovisiva.
 # Social/Academic Networking
-# For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
-#   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
-#   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
-# Link to a PDF of your resume/CV from the About widget.
-# To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: files/cv.pdf
-
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ''
-
 # Highlight the author in author lists? (true/false)
 highlight_name: false
-
 # Organizational groups that you belong to (for People widget)
-#   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - 
+-
 ---
+Francesca Medolago Albani ricopre funzioni dirigenziali all’interno dell’ANICA (Associazione Nazionale Industrie Cinematografiche Audiovisive e Digitali). Nata l'1 luglio 1968, ha conseguito la maturità classica e si è poi iscritta alla facoltà di lettere moderne con indirizzo cinema. Dopo aver conseguito la laurea nel 1992 in storia e critica del cinema, con una tesi sui rapporti tra cinema e pubblicità, ha cominciato a lavorare come giornalista, specializzata in spettacolo e media.
 
-Nata a Roma l'1 marzo 1998, Alice Micci è una VFX editor. Il padre è militare e la madre parrucchiera.
-Lavora nel mondo del cinema sin dal liceo, facendo la comparsa e la data manager per alcuni cortometraggi. Ha conseguito un master in post-produzione presso la Scuola di Cinema Sentieri Selvaggi (2017-2020).
-Ha lavorato come assistente al montaggio, come data manager ed è attualmente una visual effect editor presso una società di effetti visivi.
-
-<b>Filmografia </b> <br/>
-<b>Film </b> <br/>
-2020 – Sportin' life (Abel Ferrara) - assistente al montaggio <br/>
-2022 – Il sesso degli angeli (Leonardo Pieraccioni) - dailies operator e data manager  <br/>
-2022 – Una boccata d'aria (Alessio Lauria) - dailies operator  <br/>
-2022 – The hanging sun - Sole di mezzanotte (Francesco Carrozzini) - data manager  <br/>
-2022 – I viaggiatori (Ludovico Di Martino) - data manager e editore on-line  <br/>
-2022 – Era ora (Alessandro Aronadio) - editore on-line  <br/>
-2022 – Vicini di casa (Paolo Costella) - dailies operator  <br/>
-2023 – Come pecore in mezzo ai lupi (Lyda Patitucci) - dailies operator  <br/>
-2023 – Mixed by Erry (Sydney Sibilia) - data manager  <br/>
-2023 – Rido perché ti amo (Paolo Ruffini) - editore on-line  <br/>
-2023 – Te l'avevo detto (Ginevra Elkann) - dailies operator e data manager  <br/>
-2023 – Una gran voglia di vivere (Michela Andreozzi) - visual effects editor  <br/>
-2023 – Quando (Walter Veltroni) - visual effects editor  <br/>
-2023 – Il magico mondo di Billie (Francesco Cinquemani) - visual effects editor  <br/>
-2023 – Una stanza tutta per sé (Matan Yair) - visual effects editor  <br/>
-2023 – The garbage man (Alfonso Bergamo) - visual effects editor  <br/>
-2024 – Without blood (Angelina Jolie) - data manager   <br/>
-2024 – Pare parecchio Parigi (Leonardo Pieraccioni) - visual effects editor  <br/>
-2024 – E se mio padre (Sole Tonnini) - visual effects editor -  <br/>
-2024 – Napoli-New York (Gabriele Salvatores) - visual effects editor -  <br/>
-2024 – Amiche mai (Maurizio Nichetti) - visual effects editor -  <br/>
-2024 – Indelebile (Simone Valentini) - visual effects editor -  <br/>
-
-<b>Serie tv </b> <br/>
-2021 – Sarah - La ragazza da Avetrana (Christian Letruria) - dailies operator  <br/>
-2022 – Romulus (Matteo Rovere) - dailies operator, data manager e editore on-line  <br/>
-2023 – La legge di Lidia Poët (Matteo Rovere, Letizia Lamartire, Pippo Mezzapesa) - dailies operator  <br/>
-2024 – Dostoevskij (Damiano e Fabio D'Innocenzo) - visual effects editor  <br/>
-
+Dal 1994 è stata responsabile di molti progetti di ricerca e di studi di fattibilità per operatori pubblici e privati dell'industria dei contenuti audiovisivi e dei media. Ha iniziato svolgendo ricerche nel mondo dei media per la società Meridiani e Paralleli, sulla base dei documenti del Ministero del Turismo e dello Spettacolo. Con Angelo Zaccone Teodosi, che all'epoca dirigeva il reparto di ricerca della società, e con altri soci, nel 1996, ha fondato ISICULT – Istituto Italiano per l'Industria Culturale, ricoprendo anche il ruolo di rappresentante legale. È rimasta lì fino al 2001, ma ha continuato anche in seguito a collaborare come consulente. Quando all'ANICA è stato eletto presidente Paolo Ferrari, presidente e amministratore delegato di Warner Bros Italia, Medolago Albani è stata incaricata di ridare vita all’ufficio studi interno all’Associazione, che è rimasto in attività per alcuni anni. Ha continuato a lavorare in ANICA anche quando l'ufficio è stato chiuso, ricoprendo ruoli via via più importanti. Dal 2016 è stata responsabile Pianificazione Strategica; dal 2017 Vicepresidente del Consiglio Superiore del Cinema e dell'Audiovisivo; dal 2021 è Segretaria Generale dell'ANICA e della Fondazione ANICA Academy del Cinema, dell'Audiovisivo e del Digitale. Nel 2025 è stata nominata Direttore Sviluppo Strategico, Relazioni esterne e Formazione dell'ANICA, una nuova funzione dell'Associazione che la porterà a seguire l’attivazione, lo sviluppo e la realizzazione dei nuovi progetti, continuando ad avere la responsabilità della comunicazione e della formazione e coadiuvando il Presidente e il Segretario Generale nelle relazioni esterne e istituzionali.
