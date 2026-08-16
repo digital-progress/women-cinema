@@ -70,4 +70,16 @@ Con il suo lavoro Paola Corvino ha contribuito a far conoscere a livello interna
 2002 - Viva la scimmia (Marco Colli)<br/>
 2002 - La volpe a tre zampe (Sandro Dionisio)<br/>
 2003 - B. B. &amp; il cormorano (Edoardo Gabbriellini)<br/>
-200
+2003 - Gli indesiderabili (Pasquale Scimeca)<br/>
+2003 - Ora o mai più (Lucio Pellegrini)<br/>
+2003 - Pater Familias (Francesco Patierno)<br/>
+2003 - Prendimi (e portami via) (Tonino Zangardi)<br/>
+2003 - Uomini e donne, amori e bugie (Eleonora Giorgi)<br/>
+2003 - L'ultima sequenza (Mario Sesti)<br/>
+2003 - My father’s garden (Matthew Brown)<br/>
+2004 - Miracolo a Palermo (Giuseppe Cino)<br/>
+2004 - Pontormo (Giovanni Fago)<br/>
+2004 - Red Riding Hood - Cappuccetto Rosso (Giacomo Cimini)<br/>
+2005 - Gas (Luciano Melchionna)<br/>
+2005 - Mai + come prima (Giacomo Campiotti)<br/>
+2005 - Promessa d'am
