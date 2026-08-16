@@ -74,4 +74,24 @@ Il conformista ribelle (Anselma dell'Olio, 2022)<br/>
 Pier Paolo Pasolini – Una visione nuova (Giancarlo Scarchilli, 2023)<br/>
 Illuminate: Maria Callas (Annarita Briganti, 2023)<br/>
 In scena: Romolo Valli (Francesco D'Arma e Monica Ghezzi, 2023)<br/>
-La
+La voce senza volto (Filippo Soldi, 2023)<br/>
+Magic Moments: La bohème di Franco Zeffirelli (Anais Spiro, 2023)<br/>
+In scena: Appunti su Paolo Stoppa (Barbara Pozzoni, 2024)<br/>
+
+<b>Programmi televisivi (1984-1988)</b><br/>
+
+Un sogno americano e Ritorno a Woodstock (RAI 3, 1984) - con Carlo Tuzii<br/>
+Per Luchino Visconti (RAI 3, 1987) - con Vieri Razzini e l'Officina Filmclub<br/>
+Gassman Story (RAI 2, 1987) - con Vittorio Gassman e Carlo Tuzii<br/>
+Marco Aurelio – diario di un restauro (RAI 3, 1988) - con Carlo Tuzii<br/>
+Un amico magico: il maestro Nino Rota (Parus/Istituto Luce, 1998) - con Mario Monicelli e Suso Cecchi d'Amico<br/>
+
+<b>Pubblicazioni</b><br/>
+
+Album Visconti (Sonzogno, 1978)<br/>
+Visconti: il mio teatro - con Renzo Renzi (Cappelli, 1979)<br/>
+Verdi - con Silvia d'Amico (ERI, 1982)<br/>
+Piero Tosi - costumi e scenografie - con Guido Vergani (Leonardo Arte, 1997)<br/>
+The life and work of L.V. (Cinecittà International/Ente Cinema, 1997)<br/>
+TIRELLI 50 - con Masolino d'Amico, Silvia d'Amico e Dino Trappetti (Skira, 2014)<br/>
+Luchino Visconti. Epistolario 1920-1961 - con Alessandra Favino (Edizioni Cineteca di Bologna, 2024)<br/>
