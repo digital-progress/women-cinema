@@ -1,80 +1,76 @@
 ---
 # Display name
-title: Alice Missi
-
+title: Tilde Corsi
 # Full Name (for SEO)
-first_name: Alice
-last_name: Missi
-
+first_name: Tilde
+last_name: Corsi
 # Is this the primary user of the site?
 superuser: true
-
 # Role/position
-role:
-
+role: Produttrice cinematografica
 # Organizations/Affiliations
 organizations:
-  - name: 
-    url: ''
-
+- name: R&C Produzioni
+  url: ''
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
-
+bio: Tilde Corsi è una produttrice cinematografica italiana.
 # Social/Academic Networking
-# For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
-#   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
-#   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
-# Link to a PDF of your resume/CV from the About widget.
-# To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: files/cv.pdf
-
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ''
-
 # Highlight the author in author lists? (true/false)
 highlight_name: false
-
 # Organizational groups that you belong to (for People widget)
-#   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - 
+-
 ---
 
-Nata a Roma l'1 marzo 1998, Alice Micci è una VFX editor. Il padre è militare e la madre parrucchiera.
-Lavora nel mondo del cinema sin dal liceo, facendo la comparsa e la data manager per alcuni cortometraggi. Ha conseguito un master in post-produzione presso la Scuola di Cinema Sentieri Selvaggi (2017-2020).
-Ha lavorato come assistente al montaggio, come data manager ed è attualmente una visual effect editor presso una società di effetti visivi.
+Tilde Corsi è una produttrice cinematografica italiana.Nata a Carrara, laureata con lode in filosofia presso l'Università di Pisa, si trasferisce a Roma nella seconda metà degli anni Settanta, dove conosce lo scrittore Goffredo Parise e, grazie a lui, lo scrittore Nico Naldini. Quest'ultimo è il capo ufficio stampa della PEA (Produzioni Europee Associate), società in quegli anni molto attiva nella produzione di importanti film italiani, come Salò (Pier Paolo Pasolini, 1975), Cadaveri eccellenti (Francesco Rosi, 1976) e Novecento (Bernardo Bertolucci, 1976). Corsi inizia a lavorare come assistente di Naldini, che la porta su tutti i set dei film che si girano in quel momento per la PEA. Quando Federico Fellini inizia la lavorazione del Casanova (1975), Corsi viene mandata a lavorare su questa produzione a Cinecittà, dove entra in contatto con gli agenti delle majors internazionali che distribuiranno il film nei vari paesi del mondo, e con questi inizia una collaborazione che continuerà anche successivamente. Infatti, negli anni ‘80 e ‘90 con la Twenty Century Fox e la Warner lavorerà come consulente Marketing e Ufficio Stampa dei film dei più importanti autori americani. Durante il Casanova conosce il futuro marito Manuel De Sica, musicista, dal quale avrà un figlio, Andrea De Sica, oggi regista.Corsi inizia la sua carriera di produttrice nel 1993 quando, con Gianni Romoli, fonda la R&C Produzioni e realizza Dellamorte Dellamore (Michele Soavi, 1994). Seguono altre produzioni come Nitrato d'argento (Marco Ferreri, 1996) e diversi film di Ferzan Özpetek, i primi dei quali sono Harem Suare (1999), Le fate ignoranti (2001) e La finestra di fronte (2003).Tilde Corsi, nel frattempo, è stata Vicepresidente dell’Anica (Associazione Nazionale delle Industrie Cinematografiche) in cui fa attualmente parte del Direttivo e della Giunta; ha fatto parte del Board dell’EFA (European Film Academy) e del consiglio di Amministrazione di Cinecittà Luce, e del Comitato di Indirizzo della Fondazione della Cassa di Risparmio di Carrara.
 
-<b>Filmografia </b> <br/>
-<b>Film </b> <br/>
-2020 – Sportin' life (Abel Ferrara) - assistente al montaggio <br/>
-2022 – Il sesso degli angeli (Leonardo Pieraccioni) - dailies operator e data manager  <br/>
-2022 – Una boccata d'aria (Alessio Lauria) - dailies operator  <br/>
-2022 – The hanging sun - Sole di mezzanotte (Francesco Carrozzini) - data manager  <br/>
-2022 – I viaggiatori (Ludovico Di Martino) - data manager e editore on-line  <br/>
-2022 – Era ora (Alessandro Aronadio) - editore on-line  <br/>
-2022 – Vicini di casa (Paolo Costella) - dailies operator  <br/>
-2023 – Come pecore in mezzo ai lupi (Lyda Patitucci) - dailies operator  <br/>
-2023 – Mixed by Erry (Sydney Sibilia) - data manager  <br/>
-2023 – Rido perché ti amo (Paolo Ruffini) - editore on-line  <br/>
-2023 – Te l'avevo detto (Ginevra Elkann) - dailies operator e data manager  <br/>
-2023 – Una gran voglia di vivere (Michela Andreozzi) - visual effects editor  <br/>
-2023 – Quando (Walter Veltroni) - visual effects editor  <br/>
-2023 – Il magico mondo di Billie (Francesco Cinquemani) - visual effects editor  <br/>
-2023 – Una stanza tutta per sé (Matan Yair) - visual effects editor  <br/>
-2023 – The garbage man (Alfonso Bergamo) - visual effects editor  <br/>
-2024 – Without blood (Angelina Jolie) - data manager   <br/>
-2024 – Pare parecchio Parigi (Leonardo Pieraccioni) - visual effects editor  <br/>
-2024 – E se mio padre (Sole Tonnini) - visual effects editor -  <br/>
-2024 – Napoli-New York (Gabriele Salvatores) - visual effects editor -  <br/>
-2024 – Amiche mai (Maurizio Nichetti) - visual effects editor -  <br/>
-2024 – Indelebile (Simone Valentini) - visual effects editor -  <br/>
+Riconoscimenti
 
-<b>Serie tv </b> <br/>
-2021 – Sarah - La ragazza da Avetrana (Christian Letruria) - dailies operator  <br/>
-2022 – Romulus (Matteo Rovere) - dailies operator, data manager e editore on-line  <br/>
-2023 – La legge di Lidia Poët (Matteo Rovere, Letizia Lamartire, Pippo Mezzapesa) - dailies operator  <br/>
-2024 – Dostoevskij (Damiano e Fabio D'Innocenzo) - visual effects editor  <br/>
+2001 – Vincitrice del Nastro d'Argento come Miglior produttore per Le fate ignoranti (Ferzan Özpetek)<br/>
+2003 – Candidata al David di Donatello come Miglior produttore per La finestra di fronte (Ferzan Özpetek)<br/>
+2003 – Candidata al Nastro d'Argento come Miglior produttore per La finestra di fronte (Ferzan Özpetek)<br/>
+2011 – Vincitrice del David di Donatello come Miglior produttore per 20 sigarette (Aureliano Amadei)<br/>
+2011 – Candidata al Nastro d'Argento come Miglior produttore per 20 sigarette (Aureliano Amadei)<br/>
+2011 – Vincitrice del Premio Afrodite come Produttrice dell'anno per 20 sigarette (Aureliano Amadei)<br/>
+2023 – Candidata al Premio Internazionale Cinearti “La Chioma di Berenice” come Migliore Produzione – Serie Tv per Le fate ignoranti – La serie (Ferzan Özpetek, Gianluca Mazzella)<br/>
 
+<b>Filmografia</b><br/>
+1976 – Casanova (Federico Fellini) – ufficio stampa<br/>
+1979 – Buone notizie (Elio Petri) – ufficio stampa<br/>
+1983 – I paladini – Storia d'armi e d'amori (Giacomo Battiato) – ufficio stampa <br/>
+1985 – Lui è peggio di me (Enrico Oldoini) – ufficio stampa<br/>
+
+Produttore<br/>
+1994 – Dellamorte Dellamore (Michele Soavi)<br/>
+1996 – Nitrato d'argento (Marco Ferreri) Festival di Venezia fuori concorso<br/>
+1999 – Harem Suare (Ferzan Özpetek) Festival di Cannes “Certain regards”<br/>
+2000 – Kippur (Amos Gitai) Festival di Cannes in concorso<br/>
+2001 – Le fate ignoranti (Ferzan Özpetek) Festival di Berlino in concorso. Vincitore di 4 Nastri d’Argento<br/>
+2001 – Eden (Amos Gitai) Festival di Venezia in concorso<br/>
+2002 – Sei come sei – Una specie di appuntamento (Andrea Zaccariello) – cortometraggio <br/>
+2003 – La finestra di fronte (Ferzan Özpetek) vincitore di 5 David di Donatello, 3 Nastri d’argento <br/>
+2004 – Vento di terra (Vincenzo Marra) Festival di Venezia Orizzonti vincitore premio Fipresci e premio Pasinetti<br/>
+2004 – La Nina santa (Lucrecia Martel) Festival di Cannes in concorso<br/>
+2005 – Vieni via con me (Carlo Ventura)<br/>
+2005 – Cuore sacro (Ferzan Özpetek)<br/>
+2005 – Contronatura (Alessandro Tofanelli)<br/>
+2006 – Saturno contro (Ferzan Özpetek) vincitore 1 David di Donatello e 4 ciak d’oro<br/>
+2007 – L'ora di punta (Vincenzo Marra) Festival di Venezia in concorso<br/>
+2008 – Il passato è una terra straniera (Daniele Vicari) Festival di Roma in concorso<br/>
+2008 – La donna senza testa (Lucrecia Martel) Festival di Cannes in concorso<br/>
+2008 – La siciliana ribelle (Marco Amenta) Festival di Roma Alice nella città<br/>
+2010 – 20 sigarette (Aureliano Amadei) Festival di Venezia vincitore Controcampo Italiano, vincitore 4 David di Donatello, vincitore 2 Nastri d’argento, vincitore del Festival di Bari<br/>
+2011 – Come prima, più di prima, mi amerò (Alessandro Capitani) – documentario <br/>
+2012 – L'amore è imperfetto (Francesca Muci)<br/>
+2013 – Il volto di un'altra (Pappi Corsicato) Festival di Roma in concorso<br/>
+2014 – Giulio Cesare – Compagni di scuola (Antonello Sarno) – documentario Festival di Roma<br/>
+2014 – Allacciate le cinture (Ferzan Özpetek) vincitore 3 Nastri d’Argento<br/>
+2017 – Rosso Istanbul (Ferzan Özpetek)<br/>
+2017 – Napoli velata (Ferzan Özpetek) vincitore di 2 David di Donatello e 1 Nastro d’argento<br/>
+2019 – La dea fortuna (Ferzan Özpetek) vincitore di 2 David di Donatello e 3 Nastri d’Argento<br/>
+2021 – Django &amp; Django (Luca Rea) – documentario Festival di Venezia<br/>
+2022 – Le fate ignoranti – La serie (Ferzan Özpetek e Gianluca Mazzella) – serie tv vincitrice di 2 Nastri d’argento “Grandi serie” <br/>
+2023 – Nuovo Olimpo (Ferzan Özpetek)<br/>
