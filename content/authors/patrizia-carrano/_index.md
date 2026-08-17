@@ -1,80 +1,60 @@
 ---
 # Display name
-title: Alice Missi
-
+title: Patrizia Carrano
 # Full Name (for SEO)
-first_name: Alice
-last_name: Missi
-
+first_name: Patrizia
+last_name: Carrano
 # Is this the primary user of the site?
 superuser: true
-
 # Role/position
-role:
-
+role: Giornalista, scrittrice, autrice radiofonica, sceneggiatrice televisiva
 # Organizations/Affiliations
 organizations:
-  - name: 
-    url: ''
-
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
-
+bio: Patrizia Carrano è una giornalista, scrittrice, autrice radiofonica e sceneggiatrice televisiva italiana.
 # Social/Academic Networking
-# For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
-#   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
-#   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
-# Link to a PDF of your resume/CV from the About widget.
-# To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: files/cv.pdf
-
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ''
-
 # Highlight the author in author lists? (true/false)
 highlight_name: false
-
 # Organizational groups that you belong to (for People widget)
-#   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - 
+-
 ---
 
-Nata a Roma l'1 marzo 1998, Alice Micci è una VFX editor. Il padre è militare e la madre parrucchiera.
-Lavora nel mondo del cinema sin dal liceo, facendo la comparsa e la data manager per alcuni cortometraggi. Ha conseguito un master in post-produzione presso la Scuola di Cinema Sentieri Selvaggi (2017-2020).
-Ha lavorato come assistente al montaggio, come data manager ed è attualmente una visual effect editor presso una società di effetti visivi.
+Patrizia Carrano (Crespano del Grappa, 27 aprile 1946) è una giornalista, scrittrice, autrice radiofonica e sceneggiatrice televisiva italiana.
 
-<b>Filmografia </b> <br/>
-<b>Film </b> <br/>
-2020 – Sportin' life (Abel Ferrara) - assistente al montaggio <br/>
-2022 – Il sesso degli angeli (Leonardo Pieraccioni) - dailies operator e data manager  <br/>
-2022 – Una boccata d'aria (Alessio Lauria) - dailies operator  <br/>
-2022 – The hanging sun - Sole di mezzanotte (Francesco Carrozzini) - data manager  <br/>
-2022 – I viaggiatori (Ludovico Di Martino) - data manager e editore on-line  <br/>
-2022 – Era ora (Alessandro Aronadio) - editore on-line  <br/>
-2022 – Vicini di casa (Paolo Costella) - dailies operator  <br/>
-2023 – Come pecore in mezzo ai lupi (Lyda Patitucci) - dailies operator  <br/>
-2023 – Mixed by Erry (Sydney Sibilia) - data manager  <br/>
-2023 – Rido perché ti amo (Paolo Ruffini) - editore on-line  <br/>
-2023 – Te l'avevo detto (Ginevra Elkann) - dailies operator e data manager  <br/>
-2023 – Una gran voglia di vivere (Michela Andreozzi) - visual effects editor  <br/>
-2023 – Quando (Walter Veltroni) - visual effects editor  <br/>
-2023 – Il magico mondo di Billie (Francesco Cinquemani) - visual effects editor  <br/>
-2023 – Una stanza tutta per sé (Matan Yair) - visual effects editor  <br/>
-2023 – The garbage man (Alfonso Bergamo) - visual effects editor  <br/>
-2024 – Without blood (Angelina Jolie) - data manager   <br/>
-2024 – Pare parecchio Parigi (Leonardo Pieraccioni) - visual effects editor  <br/>
-2024 – E se mio padre (Sole Tonnini) - visual effects editor -  <br/>
-2024 – Napoli-New York (Gabriele Salvatores) - visual effects editor -  <br/>
-2024 – Amiche mai (Maurizio Nichetti) - visual effects editor -  <br/>
-2024 – Indelebile (Simone Valentini) - visual effects editor -  <br/>
+Biografia
 
-<b>Serie tv </b> <br/>
-2021 – Sarah - La ragazza da Avetrana (Christian Letruria) - dailies operator  <br/>
-2022 – Romulus (Matteo Rovere) - dailies operator, data manager e editore on-line  <br/>
-2023 – La legge di Lidia Poët (Matteo Rovere, Letizia Lamartire, Pippo Mezzapesa) - dailies operator  <br/>
-2024 – Dostoevskij (Damiano e Fabio D'Innocenzo) - visual effects editor  <br/>
+Patrizia Carrano ha trascorso l'infanzia a Venezia, per poi trasferirsi a Roma, dove ha frequentato il liceo Tasso, che ha lasciato a 17 anni senza diplomarsi per sposarsi.
 
+A 19 anni ha iniziato a lavorare a Noi donne, settimanale dell'Udi (Unione donne italiane), diretto in quel periodo da Miriam Mafai, divenuta sua mentore, e madre culturale. Comincia presto ad occuparsi anche di cinema e diventa la più giovane pubblicista di Roma e Lazio. Firmava i suoi articoli con 5 nomi: Patrizia Carrano, Paola Gobbi, Clara Motta, Anna Braghi per la sezione bellezza e Deirdre Parks per le corrispondenze estere.
+
+Qualche tempo dopo la sua separazione si è unita a Nanni Loy, con cui ha vissuto per oltre un decennio. Pur restando a Noi donne ha collaborato a Panorama, Tempo Illustrato, Amica, Max, Elle, Tango (il supplemento satirico de l'Unità diretto da Sergio Staino) e numerose altre testate. In seguito ha collaborato con Sette, il magazine del Corriere della Sera. Per circa vent'anni ha partecipato - prima per Raitre e poi per Raiuno - a una trasmissione quotidiana dal festival del cinema di Venezia.
+
+Come autrice ha debuttato nel 1977 con la Guaraldi Editore, con Malafemmina, un saggio sulla donna nel cinema italiano, con prefazione di Giovanni Grazzini, allora presidente del Sindacato critici cinematografici italiani.
+
+Nel 1978, sempre per Guaraldi, ha firmato Le signore grandi firme: dieci interviste alle più note giornaliste italiane, da Natalia Aspesi a Oriana Fallaci, a Miriam Mafai, tentando di delineare la presenza e il ruolo - allora molto esiguo - delle donne nella stampa.
+
+Nel gennaio del 1982 esce La Magnani. Il romanzo di una vita edito da Rizzoli, una biografia che le valse la stima di Federico Fellini, che nella prefazione all'edizione economica ha scritto: "La Magnani è un libro che ti prende perché sembra scritto e non lo è, come di corsa, narrato con una specie di impazienza, una sorta di intrattenibilità vorace, un'ansia di non fare in tempo a dire tutto".
+
+Seguirà Stupro. Il romanzo verità di una ragazza e dei suoi quattro violentatori che ricostruisce l'odissea di una ragazza violentata da un gruppo di padri di famiglia. Corrado Augias nella postfazione all'edizione Bur scrive: "in un libro di questo valore sociale e documentario, un cenno a parte merita la tecnica di narrazione. Infatti la costruzione della vicenda è in qualche modo omologa a quella degli eventi raccontati: sembra semplice e non lo è".
+
+Baciami stupido, una sorta di controgalateo amoroso, esce nel 1984. Cinque edizioni, traduzioni in tedesco, francese Embrasse moi idiot, in spagnolo Besame tonto. L'anno seguente dà alle stampe Una furtiva lacrima, in cui con il medesimo tono scherzoso esamina le strategie per elaborare il dolore di un abbandono.
+
+Nel 1992 ha pubblicato il primo romanzo, Cattivi compleanni, salutato da un buon successo di critica e di pubblico.
+
+Abbandona poi i temi della condizione femminile che avevano fino ad allora contrassegnato il suo lavoro di autrice e di giornalista scrive L'ostacolo dei sogni, un romanzo che ha per protagonista un cavallo realmente esistito: l'irlandese Frothblower, ribattezzato in Italia Osoppo che, nel maggio del '38 montato dal capitano Antonio Gutierrez conquistò il record mondiale di elevazione saltando nella piazza di Siena 2 metri e 44 centimetri. Di questo romanzo Geno Pampaloni scrisse su Il Giornale: "È un racconto fine, sensibile, ma che si raccomanda soprattutto per la sua concretezza, anche, o proprio perché, ha un tema aereo, inusitato e puerile: l'amore appassionato, assoluto, dell'undicenne Salvatore per un cavallo, Osoppo".
+
+I cavalli saranno protagonisti anche di due raccolte di racconti: Notturno con galoppo (Mondadori) e Campo di prova (Rizzoli).
+
+Nel 2000 si delinea un terzo filone nella produzione di Patrizia Carrano: il romanzo storico. In quell'anno esce per i tipi della Mondadori Illuminata. Storia della prima donna laureata del mondo, cui seguirà per Rizzoli Le armi e gli amori ambientato nel Mediterraneo cinquecentesco. Segue Donna di spade, ancora per Rizzoli: la storia di una spadaccina che finisce, travestita da uomo, nella casa di Denis Diderot, mentre è alle prese con la stesura dell'Encyclopédie.
+
+Per la casa Editrice Italo Svevo ha pubblicato nel 2016 Un ossimoro in Lambretta, Labirinti segreti di Giorgio Manganelli di cui è stata amica e sodale (a lui si deve il titolo Cattivi compleanni) "un libro che si fa schermo dietro la modestia ma che sa arrivare dove biografie ben più ponderose falliscono" scrive Paolo Mereghetti sul Corriere della Sera. Nel 2018, sempre per la Italo Svevo, esce Banco di prova. Indagine su un delitto scolastico, che rievoca il suicidio di un giovane allievo del liceo romano Torquato Tasso avvenuto nei primi anni Sessanta.
+
+Con la consulenza di Oreste del Buono e Natalia Aspesi ha fondato e diretto un festival culturale e cinematografico sul ‘Rosa’, tenutosi a Gabicce dal 1984 al 1986. Ha lavorato, anche frequentemente, ai microfoni di Radio2, dove ha raccontato le donne del '900 nella trasmissione Amiche mie. Ha lavorato anche come sceneggiatrice, scrivendo per Raiuno sia fiction che film, tra cui: Regina dei fiori, con protagonista Manuela Arcuri, Assunta Spina, per la regia di Riccardo Milani, e la serie in 8 puntate Butta la luna, diretta da Vittorio Sindoni, che ha ottenuto una media di 28% di share.
+
+Opere
+
+- Malafemmina, la donna nel
