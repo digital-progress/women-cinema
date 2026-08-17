@@ -15,10 +15,15 @@ sections:
       text: |
         <br>
         
-        <span style="font-size: 14px;">Here you can find a list of the women we have interviewed — women who have left their mark on Italian and international cinema. Their biographies, written with their support, tell the stories of professional and creative journeys that have helped transform the audiovisual industry. The content is currently available only in Italian, but an English version will follow soon. </span>
+ <div style="max-width: 680px; font-size: 14px; line-height: 1.7;">
+          <p style="margin: 0 0 24px 0;">
+            Here you can find a list of the women we have interviewed — women who have left their mark on Italian and international cinema. Their biographies, written with their support, tell the stories of professional and creative journeys that have helped transform the audiovisual industry. The content is currently available only in Italian, but an English version will follow soon.
+          </p>
 
-          <span style="font-size: 14px;"> Qui potete trovare un elenco delle donne che abbiamo intervistato, donne che hanno lasciato il segno nel cinema italiano ed internazionale. Le loro biografie, scritte con il loro supporto, raccontano percorsi professionali e creativi che hanno contribuito a trasformare l’industria audiovisiva.
-        Il contenuto è per ora disponibile solo in italiano, ma una versione in inglese seguirà presto. </span>
+          <p style="margin: 0;">
+            Qui potete trovare un elenco delle donne che abbiamo intervistato, donne che hanno lasciato il segno nel cinema italiano ed internazionale. Le loro biografie, scritte con il loro supporto, raccontano percorsi professionali e creativi che hanno contribuito a trasformare l’industria audiovisiva. Il contenuto è per ora disponibile solo in italiano, ma una versione in inglese seguirà presto.
+          </p>
+        </div>
 
   - block: contact
     content:
