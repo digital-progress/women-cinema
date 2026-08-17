@@ -27,7 +27,8 @@ sections:
 
   - block: contact
     content:
-      title: <a href="https://digital-progress.github.io/women-cinema/author/alice-micci">Alice Micci</a><br/>
+      title: <div style="font-size: 18px; line-height: 1.6; text-align: left; columns: 2; column-gap: 50px;">
+             <a href="https://digital-progress.github.io/women-cinema/author/alice-micci">Alice Micci</a><br/>
              <a href="https://digital-progress.github.io/women-cinema/author/andreina-mazzotto">Andreina Mazzotto</a><br/>  
              <a href="https://digital-progress.github.io/women-cinema/author/annalisa-forgione">Annalisa Forgione</a><br/>
              <a href="https://digital-progress.github.io/women-cinema/author/antonella-cannarozzi">Antonella Cannarozzi</a><br/>
@@ -65,7 +66,7 @@ sections:
              <a href="https://digital-progress.github.io/women-cinema/author/tilde-corsi">Tilde Corsi</a><br/>
              <a href="https://digital-progress.github.io/women-cinema/author/vania-protti-traxler">Vania Protti Traxler</a><br/>
              <a href="https://digital-progress.github.io/women-cinema/author/virginia-cantaro">Virginia Cantaro</a><br/>
-          
+             </div>
       text: |-
        
         
