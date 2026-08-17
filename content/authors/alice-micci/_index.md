@@ -1,10 +1,10 @@
 ---
 # Display name
-title: Alice Missi
+title: Alice Micci
 
 # Full Name (for SEO)
 first_name: Alice
-last_name: Missi
+last_name: Micci
 
 # Is this the primary user of the site?
 superuser: true
