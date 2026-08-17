@@ -48,6 +48,10 @@ main:
     parent: outputs
     url: documentaries
     weight: 30   
+  - name: Biographies
+    parent: outputs
+    url: biographies
+    weight: 40
   - name: Events
     identifier: events
     weight: 50  
