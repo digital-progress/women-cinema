@@ -34,7 +34,7 @@ sections:
              <a href="https://digital-progress.github.io/women-cinema/author/annalisa-forgione">Annalisa Forgione</a><br/>
              <a href="https://digital-progress.github.io/women-cinema/author/antonella-cannarozzi">Antonella Cannarozzi</a><br/>
              <a href="https://digital-progress.github.io/women-cinema/author/barbara-melega">Barbara Melega</a><br/>
-             <a href="https://digital-progress.github.io/women-cinema/author/cate-d-amico">Cate. D_Amico</a><br/>
+             <a href="https://digital-progress.github.io/women-cinema/author/caterina-damico">Cate. D_Amico</a><br/>
              <a href="https://digital-progress.github.io/women-cinema/author/daniela-bassani">Daniela Bassani</a><br/>
              <a href="https://digital-progress.github.io/women-cinema/author/donatella-palermo">Donatella Palermo</a><br/>
              <a href="https://digital-progress.github.io/women-cinema/author/elda-ferri">Elda Ferri</a><br/>
@@ -42,7 +42,7 @@ sections:
              <a href="https://digital-progress.github.io/women-cinema/author/elide-cortesi">Elide Cortesi</a><br/>
              <a href="https://digital-progress.github.io/women-cinema/author/esmeralda-calabria">Esmeralda Calabria</a><br/>
              <a href="https://digital-progress.github.io/women-cinema/author/fabrizia-iacona">Fabrizia Iacona</a><br/>
-             <a href="https://digital-progress.github.io/women-cinema/author/fr-medol-albani">Fr. Medol. Albani</a><br/>
+             <a href="https://digital-progress.github.io/women-cinema/author/francesca-medolago-albani">Fr. Medol. Albani</a><br/>
              <a href="https://digital-progress.github.io/women-cinema/author/francesca-andreoli">Francesca Andreoli</a><br/>
              <a href="https://digital-progress.github.io/women-cinema/author/francesca-marciano">Francesca Marciano</a><br/>
              <a href="https://digital-progress.github.io/women-cinema/author/gabriella-pescucci">Gabriella Pescucci</a><br/>
@@ -63,7 +63,7 @@ sections:
              <a href="https://digital-progress.github.io/women-cinema/author/roberta-allegrini">Roberta Allegrini</a><br/>
              <a href="https://digital-progress.github.io/women-cinema/author/roberta-geremicca">Roberta Geremicca</a><br/>
              <a href="https://digital-progress.github.io/women-cinema/author/rosanna-seregni">Rosanna Seregni</a><br/>
-             <a href="https://digital-progress.github.io/women-cinema/author/silvia-d-amico-bendico">Silvia D_Amico Bendicò</a><br/>
+             <a href="https://digital-progress.github.io/women-cinema/author/silvia-damico-bendico">Silvia D_Amico Bendicò</a><br/>
              <a href="https://digital-progress.github.io/women-cinema/author/tilde-corsi">Tilde Corsi</a><br/>
              <a href="https://digital-progress.github.io/women-cinema/author/vania-protti-traxler">Vania Protti Traxler</a><br/>
              <a href="https://digital-progress.github.io/women-cinema/author/virginia-cantaro">Virginia Cantaro</a><br/>
