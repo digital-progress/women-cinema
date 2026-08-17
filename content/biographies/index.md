@@ -27,7 +27,8 @@ sections:
 
   - block: contact
     content:
-      title: <div style="font-size: 18px; line-height: 1.6; text-align: left; columns: 2; column-gap: 50px;">
+      title: 
+             <div style="font-size: 18px; line-height: 1.6; text-align: left; columns: 2; column-gap: 50px;">
              <a href="https://digital-progress.github.io/women-cinema/author/alice-micci">Alice Micci</a><br/>
              <a href="https://digital-progress.github.io/women-cinema/author/andreina-mazzotto">Andreina Mazzotto</a><br/>  
              <a href="https://digital-progress.github.io/women-cinema/author/annalisa-forgione">Annalisa Forgione</a><br/>
