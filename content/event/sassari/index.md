@@ -1,45 +1,41 @@
 ---
-title: "Test Event"
+title: "Women and Cinema Exhibition at Regent Street Cinema, London"
 
 event:
 
 event_url:
 
-location: Test Location
+location: Regent Street Cinema
 
 address:
 
-street:
+street: Regent Street
 
-city: Test City
+city: London
 
 region:
 
 postcode:
 
-country: Test Country
+country: United Kingdom
 
-summary: Test summary
+summary: July 3–17, 2026
 
-abstract: 'This is a test event to verify build success.'
+abstract: 'The exhibition, initially shown in Bologna and Florence, was presented at the Regent Street Cinema in London from July 3 to 17, 2026.'
 
-date: '2026-08-01'
+date: '2026-07-03'
 
-date_end: '2026-08-01'
+date_end: '2026-07-17'
 
 all_day: false
 
-publishDate: '2026-08-01'
+publishDate: 'July 2026'
 
 authors: []
 
 tags: []
 
 featured: false
-
-image:
-  caption: ''
-  focal_point: Right
 
 url_code: ''
 
