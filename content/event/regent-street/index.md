@@ -37,7 +37,8 @@ tags: []
 
 featured: false
 
-image: women-cinema-london-2026.jpg
+image:
+  filename: featured.jpg
 
 caption: ''
 
