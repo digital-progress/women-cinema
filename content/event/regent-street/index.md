@@ -52,7 +52,7 @@ url_slides: ''
 
 url_video: ''
 
-slides: 
+slides:
 
 projects: []
 
