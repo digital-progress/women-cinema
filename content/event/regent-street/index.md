@@ -38,7 +38,6 @@ tags: []
 featured: false
 
 image:
-  filename: featured.jpg
 
 caption: ''
 
