@@ -38,10 +38,8 @@ tags: []
 featured: false
 
 image:
-
-caption: ''
-
-focal_point: Right
+  caption: ''
+  focal_point: Right
 
 url_code: ''
 
