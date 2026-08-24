@@ -55,4 +55,6 @@ projects: []
 
 *To accompany a screening of Visconti's film The Leopard at Regent Street Cinema on 10 July 2026, Stephen Gundle discussed the contribution of screenwriter Suso Cecchi d'Amico with Visconti expert Rossana Capitano, who interviewed Suso in 2002.*
 
-[Listen to the accompanying voice recording](Voice-260710_193819.m4a)
+### Discussion: Suso Cecchi d'Amico and *The Leopard*
+
+[Listen to the accompanying voice recording.](Voice-260710_193819.m4a)
