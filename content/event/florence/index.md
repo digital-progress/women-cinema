@@ -54,3 +54,7 @@ slides:
 projects: []
 
 ---
+
+## Gallery
+
+{{< gallery album="." >}}
