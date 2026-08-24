@@ -57,4 +57,12 @@ projects: []
 
 ## Gallery
 
-{{< gallery album="." >}}
+![Women and Cinema exhibition in Florence](florence1.jpg)
+
+![Women and Cinema exhibition in Florence](florence2.jpg)
+
+![Women and Cinema exhibition in Florence](florence3.jpg)
+
+![Women and Cinema exhibition in Florence](florence4.jpg)
+
+![Women and Cinema exhibition in Florence](florence5.jpg)
