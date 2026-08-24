@@ -1,52 +1,42 @@
 ---
-title: "Women and Cinema Exhibition at Regent Street Cinema, London"
+title: "Archival and Oral Histories in Feminist Film Research: Women in Italian Cinema"
 
-event:
-
+event: "AAIS Annual Conference – Precarity/Care/Liberation"
 event_url:
 
-location: Regent Street Cinema
+location: University of Sassari
 
 address:
+  street:
+  city: Sassari
+  region:
+  postcode:
+  country:
 
-street: Regent Street
+summary: June 3–5, 2026
 
-city: London
+abstract: 'On 3–5 June 2026, the University of Sassari hosted the annual conference of the AAIS (American Association for Italian Studies), gathered this year around the theme "Precarity/Care/Liberation." As part of the conference, Silvia Dibeltulo and Daniela Treveri Gennari presented a paper titled "Archival and Oral Histories in Feminist Film Research: Women in Italian Cinema." Drawing on the AHRC-funded project Women in Italian Film Production: Industrial Histories and Gendered Labour, the paper examined the ethical and methodological challenges of feminist film research, reflecting on how archival and oral history approaches can become practices of care while documenting women''s labour in Italian cinema. In addition, it showed how these methods can address historical precarity, centre ethical responsibility toward research participants and collaborators, and recover previously marginalised voices – in ways that resonate with contemporary debates on care, inclusion, and historical justice.'
 
-region:
+date: '2026-06-03'
+date_end: '2026-06-05'
+all_day: true
 
-postcode:
-
-country: United Kingdom
-
-summary: July 3–17, 2026
-
-abstract: 'The exhibition, initially shown in Bologna and Florence, was presented at the Regent Street Cinema in London from July 3 to 17, 2026.'
-
-date: '2026-07-03'
-
-date_end: '2026-07-17'
-
-all_day: false
-
-publishDate: 'July 2026'
+publishDate: '2026-06-03'
 
 authors: []
-
 tags: []
 
 featured: false
 
+image:
+  caption: ''
+  focal_point: Right
+
 url_code: ''
-
 url_pdf: ''
-
 url_slides: ''
-
 url_video: ''
 
 slides:
-
 projects: []
-
 ---
