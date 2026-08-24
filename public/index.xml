@@ -2,14 +2,7 @@
 &lt;p>
 &lt;figure >
 &lt;div class="d-flex justify-content-center">
-&lt;div class="w-100" >&lt;img alt="Regent Street exhibition" srcset="
-/event/regent-street/17854871848077287121567891307867_hub838b7b4cd5e0f0136d72e25258771bb_252164_5b6f08e15a86f39203283753ffc0e6eb.webp 400w,
-/event/regent-street/17854871848077287121567891307867_hub838b7b4cd5e0f0136d72e25258771bb_252164_26f99d6608c08d5421a625d7d7420681.webp 760w,
-/event/regent-street/17854871848077287121567891307867_hub838b7b4cd5e0f0136d72e25258771bb_252164_1200x1200_fit_q75_h2_lanczos.webp 1200w"
-src="https://example.com/event/regent-street/17854871848077287121567891307867_hub838b7b4cd5e0f0136d72e25258771bb_252164_5b6f08e15a86f39203283753ffc0e6eb.webp"
-width="608"
-height="760"
-loading="lazy" data-zoomable />&lt;/div>
+&lt;div class="w-100" >&lt;img src="17854871848077287121567891307867.jpg" alt="Regent Street exhibition" loading="lazy" data-zoomable />&lt;/div>
 &lt;/div>&lt;/figure>
 &lt;/p>
 &lt;p>
