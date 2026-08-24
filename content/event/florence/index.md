@@ -37,11 +37,9 @@ tags: []
 
 featured: false
 
-image: women-cinema-florence-2025.jpg
-
-caption: ''
-
-focal_point: Right
+image:
+  caption: ''
+  focal_point: Right
 
 url_code: ''
 
