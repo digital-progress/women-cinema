@@ -1,1 +1,66 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Past Events | Women In Italian Cinema</title><link>https://example.com/event/</link><atom:link href="https://example.com/event/index.xml" rel="self" type="application/rss+xml"/><description>Past Events</description><generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 03 Jul 2026 00:00:00 +0000</lastBuildDate><image><url>https://example.com/media/logo_hudf53cb4968ce8f451f5b6e1d5b7f4ffc_232652_300x300_fit_lanczos_3.png</url><title>Past Events</title><link>https://example.com/event/</link></image><item><title>Women and Cinema Exhibition at Regent Street Cinema, London</title><link>https://example.com/event/regent-street/</link><pubDate>Fri, 03 Jul 2026 00:00:00 +0000</pubDate><guid>https://example.com/event/regent-street/</guid><description/></item><item><title>Archival and Oral Histories in Feminist Film Research: Women in Italian Cinema</title><link>https://example.com/event/sassari/</link><pubDate>Wed, 03 Jun 2026 00:00:00 +0000</pubDate><guid>https://example.com/event/sassari/</guid><description/></item><item><title>Women and Cinema Festival Exhibition in Florence</title><link>https://example.com/event/florence/</link><pubDate>Wed, 01 Oct 2025 00:00:00 +0000</pubDate><guid>https://example.com/event/florence/</guid><description/></item><item><title>Presentation of the project and photo exhibition at the Cinema Ritrovato Festival 2025</title><link>https://example.com/event/cinema-retrovato/</link><pubDate>Sat, 21 Jun 2025 00:00:00 +0000</pubDate><guid>https://example.com/event/cinema-retrovato/</guid><description/></item><item><title>Oxford Brookes University's Creative Industries Festival 2025</title><link>https://example.com/event/creative-industries-festival/</link><pubDate>Wed, 12 Feb 2025 00:00:00 +0000</pubDate><guid>https://example.com/event/creative-industries-festival/</guid><description/></item><item><title>The Women in Italian Film Production project at Oxford Brookes University's EDIN Hub</title><link>https://example.com/event/edin-hub/</link><pubDate>Thu, 21 Nov 2024 00:00:00 +0000</pubDate><guid>https://example.com/event/edin-hub/</guid><description/></item><item><title>Journal of Italian Cinema &amp; Media Studies International Conference</title><link>https://example.com/event/rome/</link><pubDate>Wed, 12 Jun 2024 00:00:00 +0000</pubDate><guid>https://example.com/event/rome/</guid><description/></item><item><title>Women In Film Production: Methods, Comparisons, Resources</title><link>https://example.com/event/warwick/</link><pubDate>Tue, 21 Nov 2023 00:00:00 +0000</pubDate><guid>https://example.com/event/warwick/</guid><description/></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Past Events | Women In Italian Cinema</title><link>https://example.com/event/</link><atom:link href="https://example.com/event/index.xml" rel="self" type="application/rss+xml"/><description>Past Events</description><generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 03 Jul 2026 00:00:00 +0000</lastBuildDate><image><url>https://example.com/media/logo_hudf53cb4968ce8f451f5b6e1d5b7f4ffc_232652_300x300_fit_lanczos_3.png</url><title>Past Events</title><link>https://example.com/event/</link></image><item><title>Women and Cinema Exhibition at Regent Street Cinema, London</title><link>https://example.com/event/regent-street/</link><pubDate>Fri, 03 Jul 2026 00:00:00 +0000</pubDate><guid>https://example.com/event/regent-street/</guid><description/></item><item><title>Archival and Oral Histories in Feminist Film Research: Women in Italian Cinema</title><link>https://example.com/event/sassari/</link><pubDate>Wed, 03 Jun 2026 00:00:00 +0000</pubDate><guid>https://example.com/event/sassari/</guid><description/></item><item><title>Women and Cinema Festival Exhibition in Florence</title><link>https://example.com/event/florence/</link><pubDate>Wed, 01 Oct 2025 00:00:00 +0000</pubDate><guid>https://example.com/event/florence/</guid><description>&lt;h2 id="gallery">Gallery&lt;/h2>
+&lt;p>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img alt="Women and Cinema exhibition in Florence" srcset="
+/event/florence/florence1_hu523ba946ae3a5341bd060a4ad318e796_6783527_829c9a1f18061dec6154263f20556c4b.webp 400w,
+/event/florence/florence1_hu523ba946ae3a5341bd060a4ad318e796_6783527_68db07c0f433cf1403d1e54abc0a1085.webp 760w,
+/event/florence/florence1_hu523ba946ae3a5341bd060a4ad318e796_6783527_1200x1200_fit_q75_h2_lanczos.webp 1200w"
+src="https://example.com/event/florence/florence1_hu523ba946ae3a5341bd060a4ad318e796_6783527_829c9a1f18061dec6154263f20556c4b.webp"
+width="760"
+height="570"
+loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;/p>
+&lt;p>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img alt="Women and Cinema exhibition in Florence" srcset="
+/event/florence/florence2_huaa963514ba784e0bb448e86bee3021b4_7332985_390b2775d2d1fb79cf7df8f40d3f948f.webp 400w,
+/event/florence/florence2_huaa963514ba784e0bb448e86bee3021b4_7332985_85e906cfc643c0efbde65f874eefd555.webp 760w,
+/event/florence/florence2_huaa963514ba784e0bb448e86bee3021b4_7332985_1200x1200_fit_q75_h2_lanczos.webp 1200w"
+src="https://example.com/event/florence/florence2_huaa963514ba784e0bb448e86bee3021b4_7332985_390b2775d2d1fb79cf7df8f40d3f948f.webp"
+width="760"
+height="570"
+loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;/p>
+&lt;p>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img alt="Women and Cinema exhibition in Florence" srcset="
+/event/florence/florence3_hub2cc9a3f47674a2a1f562c54959f6ab2_7010691_ca9b7cd98d17110ed4b42c819a4a2200.webp 400w,
+/event/florence/florence3_hub2cc9a3f47674a2a1f562c54959f6ab2_7010691_06edb43916fd9a572ace140e18e71c28.webp 760w,
+/event/florence/florence3_hub2cc9a3f47674a2a1f562c54959f6ab2_7010691_1200x1200_fit_q75_h2_lanczos.webp 1200w"
+src="https://example.com/event/florence/florence3_hub2cc9a3f47674a2a1f562c54959f6ab2_7010691_ca9b7cd98d17110ed4b42c819a4a2200.webp"
+width="760"
+height="570"
+loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;/p>
+&lt;p>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img alt="Women and Cinema exhibition in Florence" srcset="
+/event/florence/florence4_huff6db51178059ea485351aa0e8967ae9_5595371_a8e6b6ac5e25e0a07042d6af2690dba7.webp 400w,
+/event/florence/florence4_huff6db51178059ea485351aa0e8967ae9_5595371_39e3385bfb3eeb3e71fd34c6dcb835a6.webp 760w,
+/event/florence/florence4_huff6db51178059ea485351aa0e8967ae9_5595371_1200x1200_fit_q75_h2_lanczos.webp 1200w"
+src="https://example.com/event/florence/florence4_huff6db51178059ea485351aa0e8967ae9_5595371_a8e6b6ac5e25e0a07042d6af2690dba7.webp"
+width="760"
+height="570"
+loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;/p>
+&lt;p>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img alt="Women and Cinema exhibition in Florence" srcset="
+/event/florence/florence5_hub5cb6bb6c2340dda9a530124bb0ec5b0_6382083_6a1ffdc0869057a7c18c36ee34936915.webp 400w,
+/event/florence/florence5_hub5cb6bb6c2340dda9a530124bb0ec5b0_6382083_7f9d83baf6b634b737be08bdc79264e9.webp 760w,
+/event/florence/florence5_hub5cb6bb6c2340dda9a530124bb0ec5b0_6382083_1200x1200_fit_q75_h2_lanczos.webp 1200w"
+src="https://example.com/event/florence/florence5_hub5cb6bb6c2340dda9a530124bb0ec5b0_6382083_6a1ffdc0869057a7c18c36ee34936915.webp"
+width="570"
+height="760"
+loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;/p></description></item><item><title>Presentation of the project and photo exhibition at the Cinema Ritrovato Festival 2025</title><link>https://example.com/event/cinema-retrovato/</link><pubDate>Sat, 21 Jun 2025 00:00:00 +0000</pubDate><guid>https://example.com/event/cinema-retrovato/</guid><description/></item><item><title>Oxford Brookes University's Creative Industries Festival 2025</title><link>https://example.com/event/creative-industries-festival/</link><pubDate>Wed, 12 Feb 2025 00:00:00 +0000</pubDate><guid>https://example.com/event/creative-industries-festival/</guid><description/></item><item><title>The Women in Italian Film Production project at Oxford Brookes University's EDIN Hub</title><link>https://example.com/event/edin-hub/</link><pubDate>Thu, 21 Nov 2024 00:00:00 +0000</pubDate><guid>https://example.com/event/edin-hub/</guid><description/></item><item><title>Journal of Italian Cinema &amp; Media Studies International Conference</title><link>https://example.com/event/rome/</link><pubDate>Wed, 12 Jun 2024 00:00:00 +0000</pubDate><guid>https://example.com/event/rome/</guid><description/></item><item><title>Women In Film Production: Methods, Comparisons, Resources</title><link>https://example.com/event/warwick/</link><pubDate>Tue, 21 Nov 2023 00:00:00 +0000</pubDate><guid>https://example.com/event/warwick/</guid><description/></item></channel></rss>
