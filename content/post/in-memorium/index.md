@@ -1,6 +1,6 @@
 ---
 title: "In Memoriam: Vania Protti Traxler (1936–2026)"
-date: 
+date: 2026-08-24
 ---
 
 Vania Protti Traxler, who died in Rome in June 2026 at the age of eighty-nine, was one of the defining figures in the history of Italian film distribution — and, for this project, an irreplaceable witness to the industrial and gendered labour that shaped postwar Italian cinema.
