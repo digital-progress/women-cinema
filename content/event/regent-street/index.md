@@ -43,8 +43,6 @@ projects: []
 
 ## Exhibition and Events
 
-![Regent Street exhibition](17854871848077287121567891307867.jpg)
-
 ![Visitors to the exhibition at the Regent Street Cinema, London](20260710_232847.jpg)
 
 *Visitors to the exhibition at the Regent Street Cinema, London.*
