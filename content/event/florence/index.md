@@ -1,5 +1,5 @@
 ---
-title: "Women and Cinema Festival Exhibition in Florence"
+title: "Above and Below the Line: The Labour of Women in Postwar Italian Cinema"
 
 event:
 
