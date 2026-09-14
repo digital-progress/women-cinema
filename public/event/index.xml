@@ -72,39 +72,18 @@ loading="lazy" data-zoomable />&lt;/div>
 &lt;p>
 &lt;figure >
 &lt;div class="d-flex justify-content-center">
-&lt;div class="w-100" >&lt;img alt="Above and Below the Line exhibition in Bologna" srcset="
-/event/cinema-retrovato/bologna1_huf1a5e352246e207a729a52dccdbdaa93_5602067_e43cc4e73b95dd2ee05fd74d3f7696a7.webp 400w,
-/event/cinema-retrovato/bologna1_huf1a5e352246e207a729a52dccdbdaa93_5602067_513d7ba1093f7e05da848b8f8a355135.webp 760w,
-/event/cinema-retrovato/bologna1_huf1a5e352246e207a729a52dccdbdaa93_5602067_1200x1200_fit_q75_h2_lanczos.webp 1200w"
-src="https://example.com/event/cinema-retrovato/bologna1_huf1a5e352246e207a729a52dccdbdaa93_5602067_e43cc4e73b95dd2ee05fd74d3f7696a7.webp"
-width="760"
-height="570"
-loading="lazy" data-zoomable />&lt;/div>
+&lt;div class="w-100" >&lt;img src="bologna1.jpg" alt="Above and Below the Line exhibition in Bologna" loading="lazy" data-zoomable />&lt;/div>
 &lt;/div>&lt;/figure>
 &lt;/p>
 &lt;p>
 &lt;figure >
 &lt;div class="d-flex justify-content-center">
-&lt;div class="w-100" >&lt;img alt="Above and Below the Line exhibition in Bologna" srcset="
-/event/cinema-retrovato/bologna2_hueeb0f7ef8798a42d0e76b1b64b0eb2a0_6658621_d3f4634d40d7ff208ea2c93c929c4b66.webp 400w,
-/event/cinema-retrovato/bologna2_hueeb0f7ef8798a42d0e76b1b64b0eb2a0_6658621_950055e3104772876ce091b5f70c0bc5.webp 760w,
-/event/cinema-retrovato/bologna2_hueeb0f7ef8798a42d0e76b1b64b0eb2a0_6658621_1200x1200_fit_q75_h2_lanczos.webp 1200w"
-src="https://example.com/event/cinema-retrovato/bologna2_hueeb0f7ef8798a42d0e76b1b64b0eb2a0_6658621_d3f4634d40d7ff208ea2c93c929c4b66.webp"
-width="570"
-height="760"
-loading="lazy" data-zoomable />&lt;/div>
+&lt;div class="w-100" >&lt;img src="bologna2.jpg" alt="Above and Below the Line exhibition in Bologna" loading="lazy" data-zoomable />&lt;/div>
 &lt;/div>&lt;/figure>
 &lt;/p>
 &lt;p>
 &lt;figure >
 &lt;div class="d-flex justify-content-center">
-&lt;div class="w-100" >&lt;img alt="Above and Below the Line exhibition in Bologna" srcset="
-/event/cinema-retrovato/bologna3_hufc8995623e7c43862b963e9084d916d0_2665256_1db80e7ab1f1b90de288ff78133e2d0c.webp 400w,
-/event/cinema-retrovato/bologna3_hufc8995623e7c43862b963e9084d916d0_2665256_a5e2df40cb058d6949da6ce1dd7c4a63.webp 760w,
-/event/cinema-retrovato/bologna3_hufc8995623e7c43862b963e9084d916d0_2665256_1200x1200_fit_q75_h2_lanczos.webp 1200w"
-src="https://example.com/event/cinema-retrovato/bologna3_hufc8995623e7c43862b963e9084d916d0_2665256_1db80e7ab1f1b90de288ff78133e2d0c.webp"
-width="760"
-height="570"
-loading="lazy" data-zoomable />&lt;/div>
+&lt;div class="w-100" >&lt;img src="bologna3.jpg" alt="Above and Below the Line exhibition in Bologna" loading="lazy" data-zoomable />&lt;/div>
 &lt;/div>&lt;/figure>
 &lt;/p></description></item><item><title>Oxford Brookes University's Creative Industries Festival 2025</title><link>https://example.com/event/creative-industries-festival/</link><pubDate>Wed, 12 Feb 2025 00:00:00 +0000</pubDate><guid>https://example.com/event/creative-industries-festival/</guid><description/></item><item><title>The Women in Italian Film Production project at Oxford Brookes University's EDIN Hub</title><link>https://example.com/event/edin-hub/</link><pubDate>Thu, 21 Nov 2024 00:00:00 +0000</pubDate><guid>https://example.com/event/edin-hub/</guid><description/></item><item><title>Journal of Italian Cinema &amp; Media Studies International Conference</title><link>https://example.com/event/rome/</link><pubDate>Wed, 12 Jun 2024 00:00:00 +0000</pubDate><guid>https://example.com/event/rome/</guid><description/></item><item><title>Women In Film Production: Methods, Comparisons, Resources</title><link>https://example.com/event/warwick/</link><pubDate>Tue, 21 Nov 2023 00:00:00 +0000</pubDate><guid>https://example.com/event/warwick/</guid><description/></item></channel></rss>
