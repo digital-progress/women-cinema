@@ -4,7 +4,7 @@ date:
 ---
 
 During the “Women in the Italian film industry” panel at Oxford Brookes University’s Creative Industries Festival (2025), led by Silvia Dibeltulo and Daniela Treveri Gennari, we had the honour to converse with Lilia Hartmann Trapani, an esteemed Italian casting director, who worked on projects such as Scorsese’s <i>Gangs of New York</i> (2002) and Ildikó Enyedi’s <i>The story of my wife</i> (2021). Though she pursued a degree in History, she soon realized her true passion was cinema. Her mother, Isa Bartalini, was Italy’s first casting director, and she worked with iconic directors like Alessandro Blasetti and Billy Wilder, inspiring Trapani to follow in her footsteps. She began her profession as her mother’s assistant before forging her own career path and establishing Studio t Casting in 1985. While her early work primarily focused on international commercials, it wasn’t long before she transitioned into cinema: her career as an international casting director took off with <i>Gangs of New York</i>, but she also worked on very different productions such as <i>Zoolander 2</i> (2016) and <i>Mary Magdalene</i> (2018), as well on several television shows such as the <i>Count of Montecristo</i> (2024) and <i>Unwanted</i> (2023). 
-
+<a href="https://digital-progress.github.io/women-cinema/author/emma-sarti/" "target=_blank">Emma Sarti</a>
 <!--more-->
 
 Trapani explained that the work of a casting director consists of different phases, from reading the script to the approval of the actors by the director and the producer. She mentioned how the role was once seen as more administrative but now requires a deep understanding of character and human interaction. Additionally, casting directors have now gained more recognition, through specific categories in awards like BAFTAs, the David di Donatello, and the Academy Award for Achievement in Casting.
@@ -15,5 +15,5 @@ Furthermore, Trapani explained how the casting director’s role has evolved sig
 <br>
 Moreover, the job of the casting director often requires the duty to respect inclusivity and diversity. Trapani claimed that a change in the representation of diversity is happening in the Italian film industry, even if at a slower pace than in more progressive countries such as the UK. Despite the challenges, Trapani remains optimistic about the future of casting, particularly when it comes to promoting inclusivity. She believes that the industry is slowly evolving, and the focus on diverse representation will continue to grow, ensuring that future generations of filmmakers and audiences see a broader range of stories and voices on screen, reflecting the world we live in today.
 <br>
-Emma Sarti
+<a href="https://digital-progress.github.io/women-cinema/author/emma-sarti/" "target=_blank">Emma Sarti</a>
 
