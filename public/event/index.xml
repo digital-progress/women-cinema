@@ -46,30 +46,26 @@ loading="lazy" data-zoomable />&lt;/div>
 &lt;p>
 &lt;figure >
 &lt;div class="d-flex justify-content-center">
-&lt;div class="w-100" >&lt;img src="florence1.jpg" alt="Women and Cinema exhibition in Florence" loading="lazy" data-zoomable />&lt;/div>
+&lt;div class="w-100" >&lt;img alt="Women and Cinema exhibition in Florence" srcset="
+/event/florence/florence-1_hu8f230446fdad4323805715ae1018bc67_3988958_f0847af408f6d5a3e9066d6cbc587f4d.webp 400w,
+/event/florence/florence-1_hu8f230446fdad4323805715ae1018bc67_3988958_e30c84c271ddde2171feef1d618161e5.webp 760w,
+/event/florence/florence-1_hu8f230446fdad4323805715ae1018bc67_3988958_1200x1200_fit_q75_h2_lanczos.webp 1200w"
+src="https://example.com/event/florence/florence-1_hu8f230446fdad4323805715ae1018bc67_3988958_f0847af408f6d5a3e9066d6cbc587f4d.webp"
+width="760"
+height="570"
+loading="lazy" data-zoomable />&lt;/div>
 &lt;/div>&lt;/figure>
 &lt;/p>
 &lt;p>
 &lt;figure >
 &lt;div class="d-flex justify-content-center">
-&lt;div class="w-100" >&lt;img src="florence2.jpg" alt="Women and Cinema exhibition in Florence" loading="lazy" data-zoomable />&lt;/div>
-&lt;/div>&lt;/figure>
-&lt;/p>
-&lt;p>
-&lt;figure >
-&lt;div class="d-flex justify-content-center">
-&lt;div class="w-100" >&lt;img src="florence3.jpg" alt="Women and Cinema exhibition in Florence" loading="lazy" data-zoomable />&lt;/div>
-&lt;/div>&lt;/figure>
-&lt;/p>
-&lt;p>
-&lt;figure >
-&lt;div class="d-flex justify-content-center">
-&lt;div class="w-100" >&lt;img src="florence4.jpg" alt="Women and Cinema exhibition in Florence" loading="lazy" data-zoomable />&lt;/div>
-&lt;/div>&lt;/figure>
-&lt;/p>
-&lt;p>
-&lt;figure >
-&lt;div class="d-flex justify-content-center">
-&lt;div class="w-100" >&lt;img src="florence5.jpg" alt="Women and Cinema exhibition in Florence" loading="lazy" data-zoomable />&lt;/div>
+&lt;div class="w-100" >&lt;img alt="Women and Cinema exhibition in Florence" srcset="
+/event/florence/florence-2_hu73a467b244d1b20ea40dfbc9a97acf33_3619374_380902d5752f460d5e91b0aac2e231b3.webp 400w,
+/event/florence/florence-2_hu73a467b244d1b20ea40dfbc9a97acf33_3619374_99ff022c561954faa0b0b1f7d051235f.webp 760w,
+/event/florence/florence-2_hu73a467b244d1b20ea40dfbc9a97acf33_3619374_1200x1200_fit_q75_h2_lanczos.webp 1200w"
+src="https://example.com/event/florence/florence-2_hu73a467b244d1b20ea40dfbc9a97acf33_3619374_380902d5752f460d5e91b0aac2e231b3.webp"
+width="760"
+height="570"
+loading="lazy" data-zoomable />&lt;/div>
 &lt;/div>&lt;/figure>
 &lt;/p></description></item><item><title>Presentation of the project and photo exhibition at the Cinema Ritrovato Festival 2025</title><link>https://example.com/event/cinema-retrovato/</link><pubDate>Sat, 21 Jun 2025 00:00:00 +0000</pubDate><guid>https://example.com/event/cinema-retrovato/</guid><description/></item><item><title>Oxford Brookes University's Creative Industries Festival 2025</title><link>https://example.com/event/creative-industries-festival/</link><pubDate>Wed, 12 Feb 2025 00:00:00 +0000</pubDate><guid>https://example.com/event/creative-industries-festival/</guid><description/></item><item><title>The Women in Italian Film Production project at Oxford Brookes University's EDIN Hub</title><link>https://example.com/event/edin-hub/</link><pubDate>Thu, 21 Nov 2024 00:00:00 +0000</pubDate><guid>https://example.com/event/edin-hub/</guid><description/></item><item><title>Journal of Italian Cinema &amp; Media Studies International Conference</title><link>https://example.com/event/rome/</link><pubDate>Wed, 12 Jun 2024 00:00:00 +0000</pubDate><guid>https://example.com/event/rome/</guid><description/></item><item><title>Women In Film Production: Methods, Comparisons, Resources</title><link>https://example.com/event/warwick/</link><pubDate>Tue, 21 Nov 2023 00:00:00 +0000</pubDate><guid>https://example.com/event/warwick/</guid><description/></item></channel></rss>
