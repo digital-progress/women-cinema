@@ -1,5 +1,5 @@
 ---
-title: "Presentation of the project and photo exhibition at the Cinema Ritrovato Festival 2025" 
+title: "Above and Below the Line: Women's Labour in Postwar Italian Cinema" 
 
 event: 
 event_url: 
@@ -13,7 +13,7 @@ address:
   country: 
 
 summary: June 2025
-abstract: 'The Women in Italian Film Industry Project team presented the project at the 39th edition of the Cinema Ritrovato festival (June 21st-29th 2025) in Bologna. On the same occasion, a photographic exhibition about women’s work in the Italian cinema, curated by the team, was displayed. The photos are sourced from different Italian archives, as well as private collections.<br/>'    
+abstract: 'The exhibition project Above and Below the Line: Women's Labour in Postwar Italian Cinema opened at the Cineteca di Bologna in June 2025 and ran until May 2026. It explored the careers of six women: two who worked in creative roles - screenwriter Suso Cecchi d'Amico and documentary filmmaker Cecilia Mangini - and four whose work was primarily technical or organisational: Mara Blasetti (assistant director and production manager), Isa Bartalini (assistant director and casting director), Anna Gruber (production collaborator), and Anna Baldacci (set photographer). The exhibition highlighted that, despite the essential contributions these women made to the production process, they were often confined to "below-the-line" roles - positions that, while crucial to the making of films, have traditionally received less recognition than their creative "above-the-line" counterparts.<br/>'    
 
 
 
