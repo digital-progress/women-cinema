@@ -15,5 +15,5 @@ Furthermore, Trapani explained how the casting director’s role has evolved sig
 <br>
 Moreover, the job of the casting director often requires the duty to respect inclusivity and diversity. Trapani claimed that a change in the representation of diversity is happening in the Italian film industry, even if at a slower pace than in more progressive countries such as the UK. Despite the challenges, Trapani remains optimistic about the future of casting, particularly when it comes to promoting inclusivity. She believes that the industry is slowly evolving, and the focus on diverse representation will continue to grow, ensuring that future generations of filmmakers and audiences see a broader range of stories and voices on screen, reflecting the world we live in today.
 <br>
-<a href="https://digital-progress.github.io/women-cinema/author/emma-sarti/" "target=_blank">Emma Sarti</a>
+<a href="https://digital-progress.github.io/women-cinema/author/emma-sarti/">Emma Sarti</a>
 
