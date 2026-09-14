@@ -65,4 +65,8 @@ projects:
 
 ![Above and Below the Line exhibition in Bologna](bologna3.jpg)
 
+![Above and Below the Line exhibition in Bologna](bologna4.jpg)
+
+![Above and Below the Line exhibition in Bologna](bologna5.jpg)
+
 
