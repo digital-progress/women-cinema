@@ -57,5 +57,12 @@ slides:
 projects:
 ---
 
+## Gallery
+
+![Above and Below the Line exhibition in Bologna](bologna1.jpg)
+
+![Above and Below the Line exhibition in Bologna](bologna2.jpg)
+
+![Above and Below the Line exhibition in Bologna](bologna3.jpg)
 
 
