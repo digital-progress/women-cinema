@@ -44,9 +44,21 @@
         </div>
       </a>
 
-      <div class="mt-1">
-        <a href="{{ $link }}" {{ $target | safeHTMLAttr }} style="font-size: 0.95rem; font-weight: 500; text-decoration: none;">Read more</a>
-      </div>
+   <div style="margin-top: 0.65rem;">
+  <a href="{{ $link }}" {{ $target | safeHTMLAttr }}
+     style="
+       display: inline-block;
+       font-size: 0.9rem;
+       font-weight: 600;
+       text-decoration: none;
+       border: 1px solid currentColor;
+       border-radius: 4px;
+       padding: 0.35rem 0.7rem;
+       line-height: 1.2;
+     ">
+    Read more →
+  </a>
+</div>
     {{ end }}
 
     <div class="stream-meta article-metadata">
